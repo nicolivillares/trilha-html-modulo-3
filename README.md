@@ -17,4 +17,7 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 - [Wikipedia](https://pt.wikipedia.org/)
 
 
+<<<<<<< HEAD
 # Wikipedia
+=======
+>>>>>>> refs/remotes/origin/main
